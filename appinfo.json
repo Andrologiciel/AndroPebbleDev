@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "andrologiciels@gmail.com",
+    "longName": "TestFenetre",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "TestFenetre",
+    "uuid": "39a9b328-6e4a-43d3-bd76-6a52cfcebeba",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
