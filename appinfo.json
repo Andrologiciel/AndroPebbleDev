@@ -4,13 +4,20 @@
         ""
     ],
     "companyName": "andrologiciels@gmail.com",
-    "longName": "TestFenetre",
+    "longName": "AndroTime",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/pendule.png",
+                "menuIcon": true,
+                "name": "ICON_TIME",
+                "type": "png"
+            }
+        ]
     },
-    "shortName": "TestFenetre",
-    "uuid": "39a9b328-6e4a-43d3-bd76-6a52cfcebeba",
+    "shortName": "AndroTime",
+    "uuid": "3aa8f766-9c38-45e7-87c2-1337aeda5f59",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
